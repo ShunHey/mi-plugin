@@ -1,0 +1,14 @@
+name: SoaromaSAC
+version: 0.8.1
+description: Anti cheat
+author: Korbsti
+main: me.Korbsti.Testing.Main
+api-version: 1.16
+commands:
+   sacreload:
+   sacnotify:
+   sacgui:
+   sacwarn:
+   sacmute:
+   sackick:
+   sacunban:
